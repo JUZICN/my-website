@@ -1,0 +1,8 @@
+
+.name {
+  font-size: 38px;
+  font-weight: 600;
+  color: var(--element3);
+  margin-bottom: 0;
+  transition: opacity 3s;
+}
